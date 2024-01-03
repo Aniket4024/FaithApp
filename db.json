@@ -1,40 +1,100 @@
+
+
 {
+
+  "hero":{
+    "instructorName":"NITYANAND CHARAN DAS",
+    "courseTitle":"Learn key life lessons from the Gita: Mind control and conflict resolution",
+    "backgroundImage":"https://cdn.wionews.com/sites/default/files/inline-images/Nityanand%20Charan%20Das.jpg"
+  },
+  "aboutCourse":{
+    "courseTitle":"Learn key life lessons from the Gita: Mind control and conflict resolution",
+    "content":[
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, architecto sint dignissimos nihil ullam sed perspiciatis nisi fugit et fuga maxime minima quaerat consequuntur doloribus hic mollitia atque explicabo odio, optio repellat quis commodi. Accusantium, perspiciatis! Pariatur doloribus facilis officia quod possimus consequuntur deleniti harum! Architecto, alias, amet perferendis laudantium ex earum quo soluta consequuntur, quas distinctio illum vero corrupti vitae. Dolor quibusdam eligendi aliquam officia quia soluta magni perferendis, itaque at eius impedit, nulla optio.",
+      "Dolor quibusdam eligendi aliquam officia quia soluta magni perferendis, itaque at eius impedit, nulla optio. Tempore unde maxime repellat accusantium quo. Similique reprehenderit vel laborum provident, praesentium accusamus animi beatae porro hic alias! Ducimus quaerat quis praesentium officiis aliquam.",
+      "Accusantium, perspiciatis! Pariatur doloribus facilis officia quod possimus consequuntur deleniti harum! Architecto, alias, amet perferendis laudantium ex earum quo soluta consequuntur, quas distinctio illum vero corrupti vitae. Dolor quibusdam eligendi aliquam officia quia soluta magni perferendis, itaque at eius impedit, nulla optio."
+    ],
+    "expection":[
+      "Learn to manage your relationships",
+      "Better communication",
+      "Time Management",
+      "Forgiveness"
+    ],
+    "keypointContent":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero magni fuga quibusdam totam, molestias repudiandae quaerat cum veritatis cupiditate eum? Iure, iste? Quibusdam consequuntur excepturi magnam, quasi nostrum corporis accusantium et quis adipisci laborum soluta recusandae odit quaerat dicta alias assumenda sunt neque cupiditate expedita explicabo dolores commodi! Laboriosam nisi quasi ab culpa quam voluptatibus architecto ut mollitia eum tempore.",
+    "keypointList":[
+      {
+        "highlight":"10 written and audio sessions",
+        "content":"guide you in decoding the language of numbers so that you can easily receive their signs and messages."
+      },
+      {
+        "highlight":"Intuitive exercises and homework",
+        "content":"walk you through the energies and values of numbers and number sequences so you can become your own authority."
+      },
+      {
+        "highlight":"A handy reference",
+        "content":"to numerical meanings so you can uncover your soul's gifts, challenges, lessons, and purpose - and receive spiritual guidance along your path."
+      },
+      {
+        "highlight":"Expert techniques",
+        "content":"for manifestation offer simple ways to use numbers to co-create with the universe."
+      }
+    ],
+    "fees":"5,000",
+    "currency":"₹",
+    "includes":[
+      
+      "5 on-demand video",
+      "2 Livestream sessions",
+      "Live FAQ Sessions with Nityanand Chran Das",
+      "An Active Whatsapp community"
+    ],
+    "registrationLink":"https://www.google.com/"
+
+  },
+  
   "instructor": {
     "name": "NITYANAND CHARAN DAS",
-    "social_media": {
-      "facebook": true,
-      "twitter": true,
-      "youtube": true,
-      "instagram": true
+    "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis cum animi explicabo minima sint quod, assumenda magnam quo reiciendis, facilis, aliquam libero? Praesentium delectus suscipit enim non atque veniam eligendi pariatur necessitatibus, autem accusamus saepe voluptas, repudiandae quod officia quis natus sapiente fugiat incidunt, aperiam at. Illo autem ducimus praesentium.",
+    "littleInfo":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur odit incidunt enim exercitationem veniam placeat sit natus voluptas deleniti?",
+    "extraInfo":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nemo nam pariatur eius quae itaque excepturi vel, expedita illum accusamus doloribus autem consequatur! Aliquam consequuntur accusamus ducimus atque reprehenderit repellendus voluptatibus veniam eveniet animi placeat, nostrum numquam quas incidunt provident, quae at sit aspernatur, voluptas modi magnam expedita? Ipsa eum temporibus vel animi vero accusantium rem nemo odio quae cumque ex facilis incidunt vitae ipsum architecto itaque, amet reiciendis. Provident?",
+    "socialMedia": {
+      "facebookLink": "www.facebook.com",
+      "twitterLink": "https://www.twitter.com/",
+      "youtubeLink": "https://www.youtube.com/",
+      "instagramLink": "https://www.instagram.com/"
+    },
+    "photo":"https://pbs.twimg.com/profile_images/1650049387224080384/WAVo3FHK_400x400.jpg"
+  },
+  "testimonial": [
+    {
+      "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
+      "name": "John Devasi",
+      "designation": "Software Developer",
+      "image":"https://dstudiosphotography.com/wp-content/uploads/2019/01/Corporate-Headshots-3-square.jpg"
+    },
+    {
+      "text": "to numerical meanings so you can uncover your soul's gifts, challenges, lessons, and purpose - and receive spiritual guidance along your path.",
+      "name": "Richard Kingjon",
+      "designation": "Interior Designer",
+      "image":"https://img.etimg.com/thumb/msid-72432284,width-650,height-488,imgsize-581459,resizemode-75/rachit-chawla-says-that-cristiano-ronaldo-has-the-best-suit-game-blending-poise-with-good-grooming-.jpg"
+    },
+    {
+      "text": "for manifestation offer simple ways to use numbers to co-create with the universe.",
+      "name": "Josafin Marato",
+      "designation": "Entreprenure",
+      "image":"https://dstudiosphotography.com/wp-content/uploads/2018/01/Headshot-photo-3-1024x640.jpg"
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur odit incidunt enim exercitationem",
+      "name": "Felix Alpil",
+      "designation": "Actor",
+      "image":"https://dstudiosphotography.com/wp-content/uploads/2018/01/Headshot-photo-3-1024x640.jpg"
+    },
+    {
+      "text": "Learn key life lessons from the Gita: Mind control and conflict resolution",
+      "name": "Nimrit Khan",
+      "designation": "Cricketor",
+      "image":"https://dstudiosphotography.com/wp-content/uploads/2018/01/headshot-photo-5-1024x640.jpg"
     }
-  },
-  "course": {
-    "title": "Learn key life lessons from the Gita: Mind control and conflict resolution",
-    "fee": {
-      "amount": 5000,
-      "currency": "INR"
-    },
-    "inclusions": {
-      "on_demand_videos": 2,
-      "live_qa_sessions": true,
-      "whatsapp_community": true
-    },
-    "about": {
-      "html_content": "<p>Lorem ipsum text about managing relationships, communication, time management, and forgiveness.</p>"
-    },
-    "what_to_expect": {
-      "html_content": "<ul><li>Learn to mange your relationships</li><li>Better communication</li><li>Time management</li><li>Forgiveness</li></ul>"
-    },
-    "key_topics": {
-      "html_content": "<ol><li>10 written and audio sessions guiding you in decoding the language of numbers so that you can easily receive their insights and messages.</li><li>Intuitive exercises and homework walk you through the energies and values of numbers and number sequences so you can become your own authority.</li><li>Handy reference to numerical meanings, so you can uncover your soul's gifts, challenges, lessons, and purpose – and receive spiritual guidance along your path.</li><li>Expert techniques for manifestation offer simple ways to use numbers to co-create with the universe.</li></ol>"
-    }
-  },
-  "about_instructor": {
-    "html_content": "<p>Lorem ipsum text about the instructor's background and philosophy.</p>"
-  },
-  "testimonial": {
-    "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
-    "reviewer_name": "Name of the reviewer",
-    "reviewer_designation": "Designation of the reviewer"
-  }
+  ]
 }
