@@ -84,9 +84,9 @@ const ProductPage = ()=>{
         <div id="PP-Course">
             <div>
                 <div id="Query-bar">
-                    <div><a href="#about-course">ABOUT</a></div>
-                    <div><a href="#AboutInstructor">INSTRUCTOR</a></div>
-                    <div><a href="#carousel">REVIEWS</a></div>
+                    <a href="#about-course"><div>ABOUT</div></a>
+                    <a href="#AboutInstructor"><div>INSTRUCTOR</div></a>
+                    <a href="#carousel"><div>REVIEWS</div></a>
                 </div>
                 <div id="about-course">
                     <h1>About the course</h1>
