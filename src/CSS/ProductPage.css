@@ -126,7 +126,7 @@
             text-decoration: none;
             color:black
         }
-
+    }
     div:hover{
         border-bottom: 3px solid #5c3cac;
         padding-top: 1px;
